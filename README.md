@@ -1,7 +1,7 @@
-<!-- # 👋 Hi, I'm Achal Jain -->
-<div align="center">
+# 👋 Hi, I'm Achal Jain
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Achal+Jain; Software+Engineer;Building+Intelligent+Solutions" alt="Typing SVG" />
-</div>
+</div> -->
 
 <h3 align="center">🚀 Software Engineer | AI-ML Enthusiast </h3>  
 
