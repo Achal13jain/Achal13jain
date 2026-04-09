@@ -11,7 +11,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### 🧑‍💻 About Me
 
@@ -40,7 +40,7 @@ me.say_hi()
 
 
 </td>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 <div style="padding: 0 0 16px 0;">
 <h3 align="center">📊 GitHub Analytics</h3>
 <br>
