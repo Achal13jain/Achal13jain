@@ -1,63 +1,115 @@
-# 👋 Hi, I'm Achal Jain
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Achal+Jain; Software+Engineer;Building+Intelligent+Solutions" alt="Typing SVG" />
-</div> -->
+<div align="center">
 
-<h3 align="center">🚀 Software Engineer | AI-ML Enthusiast </h3>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ACHAL%20JAIN&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20%7C%20AI%2FML%20%20%7C%20Problem%20Solver&descAlignY=54&descSize=18&descColor=E0E0E0"/>
 
-- 💡 Enthusiastic about **Software Development, AI/ML, and Problem-Solving**
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Building+Intelligent+Solutions;Full-Stack+%2B+AI%2FML;Exploring+Generative+AI+%26+AI+Agents;Turning+Ideas+into+Production+Code" />
+</p>
 
-- 🌱 Currently learning **Generative AI, AI Agents, and Data Science**
-
-- 📫 Reach me at **[jainachal38@gmail.com](mailto:jainachal38@gmail.com)**
-
-- 🌐 [Portfolio](https://achal-jain-portfolio.netlify.app) | [LinkedIn](https://linkedin.com/in/achal-jain13)
+</div>
 
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About Me
 
-### Languages
+```python
+class AchalJain:
+    def __init__(self):
+        self.role       = "Software Engineer"
+        self.stack      = ["Java", "Python", "JavaScript", "SQL"]
+        self.focus      = ["Software Dev", "AI/ML", "Problem Solving"]
+        self.learning   = ["Generative AI", "AI Agents", "Data Science"]
+        self.portfolio  = "achal-jain-portfolio.netlify.app"
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=database\&logoColor=white)
+    def say_hi(self):
+        print("Thanks for dropping by — let's build something great!")
 
-### Frameworks & Tools
+me = AchalJain()
+me.say_hi()
+```
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-### Data Science & ML
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-
-
-
-## 📊 GitHub Stats
-
-<!-- ![Achal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achal13jain\&show_icons=true\&theme=radical) -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achal13jain\&layout=compact\&theme=radical) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Achal13jain\&theme=radical)
- 
-
-<!--!![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achal13jain\&theme=radical)
-[Achal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Achal13jain)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achal13jain&layout=compact)-->
+### 🎯 Current Focus
+- 🔭 Working on **Full-Stack + AI/ML** projects
+- 🌱 Learning **Generative AI, AI Agents, Data Science**
+- 💡 Exploring **LLM-powered applications** and **agentic workflows**
+- ✍️ Writing about what I build on **Medium** and **Hashnode**
+- 📫 Reach me at **jainachal38@gmail.com**
 
 
-## 📫 Connect With Me
+</td>
+<td width="50%" valign="top">
+<div style="padding: 0 0 16px 0;">
+<h3 align="center">📊 GitHub Analytics</h3>
+<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Achal13jain&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="100%"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achal13jain&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Achal13jain/Achal13jain/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <br><br>
+</p>
+</div>
+</td>
+</tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/achal-jain13)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=todoist\&logoColor=white)](https://achal-jain-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jainachal38@gmail.com)
 
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<p style="margin: 0 0 10px; font-weight: 800; font-size: 18px;">Languages</p>
+<p style="margin: 0 0 24px;"><img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,js,ts,html,css&theme=dark" style="margin: 0 10px 0 10px;"/></p>
+
+<p style="margin: 0 0 10px; font-weight: 800; font-size: 18px;">Frameworks & Libraries</p>
+<p style="margin: 0 0 24px;"><img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,django,react,nextjs,tailwind&theme=dark" style="margin: 0 10px 0 10px;"/></p>
+
+<p style="margin: 0 0 10px; font-weight: 800; font-size: 18px;">AI / ML / Data</p>
+<p style="margin: 0 0 24px;"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,streamlit&theme=dark" style="margin: 0 10px 0 10px;"/></p>
+
+<p style="margin: 0 0 10px; font-weight: 800; font-size: 18px;">Databases & DevOps</p>
+<p style="margin: 0 0 0 0;"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,docker,git,github,linux,vscode,postman&theme=dark" style="margin: 0 10px 0 10px;"/></p>
+
+</div>
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Check out my latest articles on [Medium](https://medium.com/@jainachal38) and [Hashnode](https://hashnode.com/@Achal13jain)
+
+
+## 🤝 Let’s Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/achal-jain13"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="40" style="margin:0 10px;"/></a>
+<a href="https://x.com/jainachal13"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="40" style="margin:0 10px;"/></a>
+<a href="https://medium.com/@jainachal38"><img src="https://go-skill-icons.vercel.app/api/icons?i=medium" width="40" style="margin:0 10px;"/></a>
+<!-- <a href="https://hashnode.com/@Achal13jain"><img src="https://go-skill-icons.vercel.app/api/icons?i=hashnode" width="40" style="margin:0 10px;"/></a> -->
+<a href="https://achal-jain-portfolio.netlify.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="40" style="margin:0 10px;"/></a>
+<a href="mailto:jainachal38@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" style="margin:0 10px;"/></a>
+</p>
+
+<!-- ## 🏆 Philosophy
+
+<div align="center">
+
+| 🔁 Consistency | 🧱 Discipline | ⚙️ Execution | 🏆 Impact |
+|:|:|:|:|
+| over perfection | over motivation | over noise | over words |
+
+</div>
+ -->
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+
+⭐ **If you like what I do, consider starring my repos!** ⭐
+</div>
