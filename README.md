@@ -79,6 +79,10 @@ me.say_hi()
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Deployed a Stock Prediction Model on AWS — Here’s Exactly How](https://medium.com/towards-data-engineering/i-deployed-a-stock-prediction-model-on-aws-heres-exactly-how-6dfc7f4c918c?source=rss-f9caab75c17f------2)
+- [The AI Arms Race Has Already Begun — And No One Is Ready](https://medium.com/@jainachal38/the-ai-arms-race-has-already-begun-and-no-one-is-ready-fcae437cabbe?source=rss-f9caab75c17f------2)
+- [Free Cloud Platforms for ML — Colab, Kaggle &amp; Hugging Face &lpar;What Nobody Tells You&rpar;](https://medium.com/towards-data-engineering/free-cloud-platforms-for-ml-colab-kaggle-hugging-face-what-nobody-tells-you-7e33ba563ccd?source=rss-f9caab75c17f------2)
+- [Context Engineering Is a Skill. Most Developers Are Skipping It.](https://pub.towardsai.net/context-engineering-is-a-skill-most-developers-are-skipping-it-9938678292b8?source=rss-f9caab75c17f------2)
 <!-- BLOG-POST-LIST:END -->
 
 Check out my latest articles on [Medium](https://medium.com/@jainachal38) and [Hashnode](https://hashnode.com/@Achal13jain)
