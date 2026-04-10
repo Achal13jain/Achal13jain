@@ -39,7 +39,7 @@ me.say_hi()
 - ✍️ Writing about what I build on **Medium** and **Hashnode**
 - 📫 Reach me at **jainachal38@gmail.com**
 
-
+</br>
 </td>
 <td width="50%" valign="top" style="width:50%; max-width:50%;">
 <h3 align="center">📊 GitHub Analytics</h3>
