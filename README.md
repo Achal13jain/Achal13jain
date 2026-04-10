@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ACHAL%20JAIN&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20%7C%20AI%2FML%20%20%7C%20Problem%20Solver&descAlignY=54&descSize=18&descColor=E0E0E0"/>
@@ -11,21 +12,21 @@
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="50%" valign="top" style="width:50%; max-width:50%;">
 
 ### 🧑‍💻 About Me
 
 ```python
 class AchalJain:
     def __init__(self):
-        self.role       = "Software Engineer"
-        self.stack      = ["Java", "Python", "JavaScript", "SQL"]
-        self.focus      = ["Software Dev", "AI/ML", "Problem Solving"]
-        self.learning   = ["Generative AI", "AI Agents", "Data Science"]
-        self.portfolio  = "achal-jain-portfolio.netlify.app"
+        self.role      = "Software Engineer"
+        self.stack     = ["Java", "Python", "JS", "SQL"]
+        self.focus     = ["Dev", "AI/ML", "Problem Solving"]
+        self.learning  = ["GenAI", "AI Agents", "DS & Eng."]
+        self.portfolio = "achal-jain-portfolio.netlify.app"
 
     def say_hi(self):
-        print("Thanks for dropping by — let's build something great!")
+        print("Thanks for stopping by — let's build!")
 
 me = AchalJain()
 me.say_hi()
@@ -40,8 +41,7 @@ me.say_hi()
 
 
 </td>
-<td width="65%" valign="top">
-<div style="padding: 0 0 16px 0;">
+<td width="50%" valign="top" style="width:50%; max-width:50%;">
 <h3 align="center">📊 GitHub Analytics</h3>
 <br>
 <p align="center">
@@ -52,7 +52,7 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/Achal13jain/Achal13jain/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   <br><br>
 </p>
-</div>
+
 </td>
 </tr>
 </table>
