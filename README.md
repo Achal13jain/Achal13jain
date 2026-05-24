@@ -20,7 +20,7 @@
 class AchalJain:
     def __init__(self):
         self.role      = "Software Engineer"
-        self.stack     = ["Java", "Python", "JS", "SQL"]
+        self.stack     = ["Python", "JS", "React", "SQL"]
         self.focus     = ["Dev", "AI/ML", "Problem Solving"]
         self.learning  = ["GenAI", "AI Agents", "DS & Eng."]
         self.portfolio = "achal-jain-portfolio.netlify.app"
@@ -85,8 +85,7 @@ me.say_hi()
 - [I Deployed a Stock Prediction Model on AWS — Here’s Exactly How](https://medium.com/towards-data-engineering/i-deployed-a-stock-prediction-model-on-aws-heres-exactly-how-6dfc7f4c918c?source=rss-f9caab75c17f------2)
 <!-- BLOG-POST-LIST:END -->
 
-Check out my latest articles on [Medium](https://medium.com/@jainachal38) and [Hashnode](https://hashnode.com/@Achal13jain)
-
+Check out my latest articles on [Medium](https://medium.com/@jainachal38).
 
 ## 🤝 Let’s Connect
 
