@@ -79,10 +79,10 @@ me.say_hi()
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling a Project Starts Long Before You Get Users](https://medium.com/illumination/scaling-a-project-starts-long-before-you-get-users-6c6c4ddd1fba?source=rss-f9caab75c17f------2)
 - [A 7-Billion-Parameter Conductor Just Claimed Frontier Performance. This is AI Orchestration.](https://medium.com/@jainachal38/a-7-billion-parameter-conductor-just-claimed-frontier-performance-this-is-ai-orchestration-a0d4fe0102eb?source=rss-f9caab75c17f------2)
 - [The Model Is Not Your Product. The Harness Is.](https://pub.towardsai.net/the-model-is-not-your-product-the-harness-is-025984216741?source=rss-f9caab75c17f------2)
 - [The System Design Behind India’s Most Stressful 60 Seconds — IRCTC Tatkal Booking](https://medium.com/towards-data-engineering/the-system-design-behind-indias-most-stressful-60-seconds-irctc-tatkal-booking-f30b02653a9a?source=rss-f9caab75c17f------2)
-- [If AI is Writing the Code, What’s Left for Us?](https://pub.towardsai.net/if-ai-is-writing-the-code-whats-left-for-us-de4918b12434?source=rss-f9caab75c17f------2)
 <!-- BLOG-POST-LIST:END -->
 
 Check out my latest articles on [Medium](https://medium.com/@jainachal38).
