@@ -94,7 +94,7 @@ Check out my latest articles on [Medium](https://medium.com/@jainachal38).
 <a href="https://x.com/jainachal13"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="40" style="margin:0 10px;"/></a>
 <a href="https://medium.com/@jainachal38"><img src="https://go-skill-icons.vercel.app/api/icons?i=medium" width="40" style="margin:0 10px;"/></a>
 <!-- <a href="https://hashnode.com/@Achal13jain"><img src="https://go-skill-icons.vercel.app/api/icons?i=hashnode" width="40" style="margin:0 10px;"/></a> -->
-<a href="https://achal-jain-portfolio.netlify.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="40" style="margin:0 10px;"/></a>
+<a href="https://achal-jain.vercel.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="40" style="margin:0 10px;"/></a>
 <a href="mailto:jainachal38@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" style="margin:0 10px;"/></a>
 </p>
 
