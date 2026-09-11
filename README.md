@@ -23,7 +23,7 @@ class AchalJain:
         self.stack     = ["Python", "JS", "React", "SQL"]
         self.focus     = ["Dev", "AI/ML", "Problem Solving"]
         self.learning  = ["GenAI", "AI Agents", "DS & Eng."]
-        self.portfolio = "achal-jain-portfolio.netlify.app"
+        self.portfolio = "achal-jain.vercel.app"
 
     def say_hi(self):
         print("Thanks for stopping by — let's build!")
