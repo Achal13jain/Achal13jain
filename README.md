@@ -79,10 +79,10 @@ me.say_hi()
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Built an Agent It Couldn’t Trust. That’s the Real Benchmark.](https://generativeai.pub/openai-built-an-agent-it-couldnt-trust-that-s-the-real-benchmark-0dd7c2a9d665?source=rss-f9caab75c17f------2)
 - [First Jev, Then Laya: What Are These Things If Not Chatbots?](https://generativeai.pub/first-jev-then-laya-what-are-these-things-if-not-chatbots-48dd46b64c15?source=rss-f9caab75c17f------2)
 - [I Argued the Harness was the Product. Then DeepSeek open-sourced theirs.](https://generativeai.pub/i-argued-the-harness-was-the-product-then-deepseek-open-sourced-theirs-d092f8b3dcde?source=rss-f9caab75c17f------2)
 - [Scaling a Project Starts Long Before You Get Users](https://medium.com/illumination/scaling-a-project-starts-long-before-you-get-users-6c6c4ddd1fba?source=rss-f9caab75c17f------2)
-- [A 7-Billion-Parameter Conductor Just Claimed Frontier Performance. This is AI Orchestration.](https://medium.com/@jainachal38/a-7-billion-parameter-conductor-just-claimed-frontier-performance-this-is-ai-orchestration-a0d4fe0102eb?source=rss-f9caab75c17f------2)
 <!-- BLOG-POST-LIST:END -->
 
 Check out my latest articles on [Medium](https://medium.com/@jainachal38).
