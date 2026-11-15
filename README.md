@@ -47,8 +47,6 @@ me.say_hi()
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Achal13jain&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="100%"/>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achal13jain&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-  <br><br>
   <img src="https://raw.githubusercontent.com/Achal13jain/Achal13jain/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   <br><br>
 </p>
@@ -63,16 +61,18 @@ me.say_hi()
 <div align="center">
 
 <p style="margin: 0 0 10px; font-weight: 800; font-size: 18px;">Languages</p>
-<p style="margin: 0 0 24px;"><img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,js,ts,html,css&theme=dark" style="margin: 0 10px 0 10px;"/></p>
+<p style="margin: 0 0 24px;"><img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&perline=6" alt="Java, Python, JavaScript, TypeScript, HTML, CSS" /></p>
 
 <p style="margin: 0 0 10px; font-weight: 800; font-size: 18px;">Frameworks & Libraries</p>
-<p style="margin: 0 0 24px;"><img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,django,react,nextjs,tailwind&theme=dark" style="margin: 0 10px 0 10px;"/></p>
+<p style="margin: 0 0 24px;"><img src="https://skillicons.dev/icons?i=spring,fastapi,django,react,nextjs,tailwind&perline=6" alt="Spring, FastAPI, Django, React, Next.js, Tailwind CSS" /></p>
 
 <p style="margin: 0 0 10px; font-weight: 800; font-size: 18px;">AI / ML / Data</p>
-<p style="margin: 0 0 24px;"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,streamlit&theme=dark" style="margin: 0 10px 0 10px;"/></p>
+<p style="margin: 0 0 8px;"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" alt="PyTorch, TensorFlow, scikit-learn" /></p>
+<p>NumPy · Pandas · Streamlit</p>
 
 <p style="margin: 0 0 10px; font-weight: 800; font-size: 18px;">Databases & DevOps</p>
-<p style="margin: 0 0 0 0;"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,docker,git,github,linux,vscode,postman&theme=dark" style="margin: 0 10px 0 10px;"/></p>
+<p style="margin: 0;"><img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode&perline=7" alt="PostgreSQL, MySQL, Docker, Git, GitHub, Linux, VS Code" /></p>
+<p>Postman</p>
 
 </div>
 
@@ -90,12 +90,11 @@ Check out my latest articles on [Medium](https://medium.com/@jainachal38).
 ## 🤝 Let’s Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/achal-jain13"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="40" style="margin:0 10px;"/></a>
-<a href="https://x.com/jainachal13"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="40" style="margin:0 10px;"/></a>
-<a href="https://medium.com/@jainachal38"><img src="https://go-skill-icons.vercel.app/api/icons?i=medium" width="40" style="margin:0 10px;"/></a>
-<!-- <a href="https://hashnode.com/@Achal13jain"><img src="https://go-skill-icons.vercel.app/api/icons?i=hashnode" width="40" style="margin:0 10px;"/></a> -->
-<a href="https://achal-jain.vercel.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="40" style="margin:0 10px;"/></a>
-<a href="mailto:jainachal38@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" style="margin:0 10px;"/></a>
+<a href="https://linkedin.com/in/achal-jain13">LinkedIn</a> ·
+<a href="https://x.com/jainachal13">X</a> ·
+<a href="https://medium.com/@jainachal38">Medium</a> ·
+<a href="https://achal-jain.vercel.app">Portfolio</a> ·
+<a href="mailto:jainachal38@gmail.com">Email</a>
 </p>
 
 <!-- ## 🏆 Philosophy
